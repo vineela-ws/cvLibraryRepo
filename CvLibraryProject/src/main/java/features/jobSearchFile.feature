@@ -10,7 +10,7 @@ Feature: Job Serch Feature
     
     Examples:
     |jobtitle     | location |
-    | Auotomation | United   |
+    | Auotomation | United Kingdom  |
      
      
     
